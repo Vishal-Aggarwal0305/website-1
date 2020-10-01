@@ -32,7 +32,7 @@ First of all, clone this repository (if you don't have a commit access, use your
 $ git clone git@github.com:jubatus/website.git
 ```
 
-Edit the document.
+Edit that document.
 
 ```
 $ edit source/index.rst
